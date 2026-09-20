@@ -58,7 +58,7 @@ gh release view <version> --repo AC1D-Development/VRC-XCA-releases --json assets
 
 VRC-XCA is a fork of [VRCX](https://github.com/vrcx-team/VRCX) and is distributed under the MIT License.
 
-> Copyright (c) 2019-2026 pypy and individual contributors.
+> Copyright (c) 2019-2026 pypy, individual contributors, AC1D-Development, and CraziestPizza
 
 See [LICENSE](./LICENSE) for the full text. <!-- FILL: copy the LICENSE file from the source repo into this repo -->
 
