@@ -28,7 +28,7 @@ chmod +x VRCX_*.AppImage
 
 You usually don't need this page. VRC-XCA checks here for new releases once an hour while running and will offer the update to you in-app.
 
-You can change this behaviour under **Settings → General → Update**:
+You can change this behavior under **Settings → General → Update**:
 
 - **Auto Download** (default) — downloads the update in the background, installs it next time you restart.
 - **Notify** — tells you an update exists and waits for you to start it.
@@ -49,10 +49,9 @@ gh release view <version> --repo AC1D-Development/VRC-XCA-releases --json assets
 ```
 
 ## Support
+> Discord server: [Join](discord.gg/FFbZws54Vb)
 
-<!-- FILL: where should users report bugs or ask questions? A Discord invite, an email,
-     or a public issues-only repo. Do not point them at the upstream VRCX Discord —
-     upstream can't support a fork's builds. -->
+> Administrator contact: [Email](mailto:admin@vrcwatchdog.com)
 
 ## License and attribution
 
@@ -64,4 +63,4 @@ See [LICENSE](./LICENSE) for the full text. <!-- FILL: copy the LICENSE file fro
 
 ## Disclaimer
 
-VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.
+VRC-XCA is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.
